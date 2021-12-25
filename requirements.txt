@@ -1,3 +1,4 @@
+tqdm==4.62.3
 scipy==1.7.1
 networkx==2.6.3
 decorator==5.1.0
@@ -7,3 +8,4 @@ matplotlib
 graph-tools==1.5
 jupyterlab==3.1.12
 seaborn==0.11.2
+powerlaw==1.5
